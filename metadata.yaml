@@ -1,0 +1,44 @@
+_repo: Cronicas-imorais_71745
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sampaio, Albino Forjaz de
+    aliases:
+    - Forjaz de Sampaio, Albino
+    - De Sampaio, Albino Forjaz
+    - Sampayo, Albino Forjaz de
+    birthdate: 1884
+    deathdate: 1949
+    gutenberg_agent_id: '56373'
+    url: http://www.gutenberg.org/2009/agents/56373
+    wikipedia: https://pt.wikipedia.org/wiki/Albino_Forjaz_de_Sampaio
+description: ''
+gutenberg_issued: '2023-09-27'
+identifiers:
+  gutenberg: '71745'
+language: pt
+pgterms:marc904: https://archive.org/details/crnicasimorais00samp/page/n7/mode/2up
+pgterms:marc905: 20220920182726sampayo
+pgterms:marc906: '1918'
+pgterms:marc907: PT
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLisboa :$bSantos & Vieira, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Portuguese'
+- !lcsh 'Portuguese fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Dedicatória -- Crónicas imorais -- Juízo do ano -- Artistas -- O
+  Jettatore -- Os mineiros -- Um sábio português -- Emigrantes -- Gabriéllo d’Annunzio
+  -- Um poema -- Oriente -- As flores -- Quanto custa uma mulher? -- Teatro nacional
+  -- D. João da Câmara -- Arte de Reinar -- Religiões -- Gomes Leal -- Naufrágios
+  -- Goron -- Mercedes Blasco -- A Deliciosa Mentira -- Estátuas e comendas -- A tristeza
+  profissional -- A morte -- Poetas -- O Tempo -- A decadência do jornalismo em França
+  -- O Carnaval -- Academias -- O passado -- O calor -- Os bastidores do Génio; Zola;
+  Wagner; Gorki -- A tortura do Estilo; Eça de Queiroz.
+title: Crónicas imorais
+url: http://www.gutenberg.org/ebooks/71745
