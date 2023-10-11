@@ -1,5 +1,8 @@
 _repo: Cronicas-imorais_71745
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71745-h/images/cover.jpg
 creator:
   author:
     agent_name: Sampaio, Albino Forjaz de
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56373
     wikipedia: https://pt.wikipedia.org/wiki/Albino_Forjaz_de_Sampaio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71745#Cronicas-imorais
 gutenberg_issued: '2023-09-27'
 identifiers:
   gutenberg: '71745'
